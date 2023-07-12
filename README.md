@@ -1,9 +1,9 @@
-# RepoName
+# chatbox
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/chatbox
 ```
 
 ## Notes
