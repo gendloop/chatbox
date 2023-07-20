@@ -2,4 +2,4 @@
 PROJECT_NAME=chatbox
 chatbox_VERSION_MAJOR=0
 chatbox_VERSION_MINOR=6
-chatbox_VERSION_PATCH=1
+chatbox_VERSION_PATCH=2
